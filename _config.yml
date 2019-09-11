@@ -20,7 +20,7 @@ locale: ko-KR
 title: "어슬픈 개발자의 기계학습 이야기"
 description: "기계학습 이야기 "
 baseurl: " " # the subpath of your site, e.g. "/blog"
-url: "https://nuri.github.io"
+url: "https://nuri428.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%Y-%M-%d"
 read_time: # reading time estimates, e.g. true
